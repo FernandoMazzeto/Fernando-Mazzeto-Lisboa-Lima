@@ -12,7 +12,13 @@ Hoje, dedico-me diariamente ao aperfeiçoamento em Análise e Ciência de Dados 
 
 - 🖥️ Atualmente estou aprendendo **Microsoft Power BI, Microsoft Excel, SQL e continuamente Python**  
 - 💭 Estou disposta a colaborar em **Projetos utilizando Machine Learning, Análise/Ciência de Dados e Storytelling**  
-- 📩 Mande um email **fmazzetolisboalima@gmail.com**  
+- 📩 Mande um email **fmazzetolisboalima@gmail.com**
+- 📜 Certificados na área de Dados (Preditiva Analytics): <br>
+          ✅ Excel para análise de dados <br>
+          ✅ Power BI para análise de dados <br>
+          ✅ Fundamentos de Data Analytics <br>
+          ✅ Data Analytics 
+  
 
 ## Linguagens, Frameworks e Bibliotecas que tenho conhecimento 💡
 
