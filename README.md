@@ -25,6 +25,6 @@ Hoje, dedico-me diariamente ao aperfeiçoamento em Análise e Ciência de Dados 
 
 ## Contato 📞  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fernando-mazzeto)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-mazzeto)  
 
 
